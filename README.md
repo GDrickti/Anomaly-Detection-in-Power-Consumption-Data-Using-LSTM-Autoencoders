@@ -15,6 +15,10 @@ Enhance the reliability of power systems and reduce operational costs by flaggin
 Foundation for Future Systems: Establish a scalable tool that can be adapted for various contexts, including industrial facilities and smart homes.
 
 ## Methodology
+
+### Dataset - 
+https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+
 #### 1.Data Loading and Preprocessing:
 
 Load the Household Power Consumption dataset and perform initial data analysis.
